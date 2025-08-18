@@ -1,41 +1,49 @@
+# 📊 Adventure Works Sales Excel Dashboard
+
+This repository contains an **Excel dashboard project** built with the AdventureWorks dataset.  
+It leverages **Power Query, Power Pivot, and DAX** to clean data, create a relational model, build measures, and visualize KPIs for sales insights.
 
 ---
 
-## 🖼️ Dashboard & Screenshots  
+## 📁 Data Model (Star Schema)
 
-### #1 Main Dashboard  
-Provides an overview of total sales, profit, order quantity, and customer segments with slicers for interactivity.  
-![Main Dashboard](images/Main_Dashboard.png)  
+The dataset follows a star schema with one fact table (**FactInternetSales**) and multiple dimension tables (**DimProduct, DimCustomer, DimDate, DimGeography, DimSalesTerritory**).
 
----
-
-### #2 Supporting Dashboard View  
-Highlights monthly sales trends, regional breakdowns, and product performance.  
-![Dashboard 2](images/Dashboard_2.png)  
+![Data Model](./Diagram.png)
 
 ---
 
-### #3 Data Model Diagram  
-Relational model built with Power Pivot connecting Fact and Dimension tables.  
-![ER Diagram](images/Diagram.png)  
+## 📈 Key Features
+
+- **Top-5 Products and Customers**: Identify the most profitable products and customers  
+- **Profit by Product Color**: Analyze sales contribution by product color  
+- **Performance by Price Range**: Compare high-end vs low-end product sales  
+- **Yearly & Quarterly Trends**: Track revenue and transaction volume over time  
+- **Customer Demographics**: Break down revenue by gender and age group  
+- **Regional Sales Contribution**: Visualize revenue contribution by country  
 
 ---
 
-## 📈 Key Features (#1–#10 Example Breakdown)  
-1. **Power Query ETL** – Data cleaning and transformation pipeline  
-2. **Relational Modeling** – Connecting Fact & Dimension tables  
-3. **DAX Measures** – Custom KPIs (e.g., Total Sales, Profit Margin, YOY Growth)  
-4. **Sales by Region** – Geographic breakdown with slicers  
-5. **Top Products** – Best-selling items by revenue  
-6. **Customer Segmentation** – Sales by customer type and demographics  
-7. **Trend Analysis** – Monthly and quarterly performance trends  
-8. **Profitability Insights** – Gross margin and cost analysis  
-9. **Interactive Filters** – Dynamic exploration with slicers  
-10. **Executive Summary Dashboard** – At-a-glance KPI visualization  
+## 📊 Dashboard Previews
+
+### 🖼️ Main Dashboard
+![Main Dashboard](./Main_Dashboard.png)
+
+### 🖼️ Detailed Dashboard
+![Detailed Dashboard](./Dashboard_2.png)
 
 ---
 
-## 🔧 How to Use  
-1. Clone this repo:  
+## 🛠️ Tech Stack
+
+- **Excel (Power Query & Power Pivot)**: Data cleaning, modeling, and visualization  
+- **SQL**: Data extraction and preparation  
+- **Adventure Works Dataset**: Microsoft sample dataset  
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Haneul318/Adventure-Works-Sales-Excel-Dashboard.git
+   git clone https://github.com/your-username/your-repo-name.git
