@@ -1,6 +1,6 @@
 # Adventure-Works-Sales-Excel-Dashboard
 
-## Learning Source!
+## Learning Source
 This project was created by following the YouTube tutorial:  
 [AdventureWorks Excel Dashboard Tutorial ;The Microsoft Excel Dashboard Masterclass]([https://www.youtube.com/xxxx](https://youtu.be/VxOOt2dP8Jw?si=N1vrkUiE-4qhg8uH))  
 
