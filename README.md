@@ -23,7 +23,7 @@ The project is powered by a star schema linking fact tables and dimension tables
 ---
 
 ## 2. Executive Sales Overview (A1)
-Provides a high-level summary of sales KPIs, top products, and demographics.
+Provides a high-level summary of sales KPIs, top products, and demographics
 
 ![Executive Sales Overview](A1.png)
 
