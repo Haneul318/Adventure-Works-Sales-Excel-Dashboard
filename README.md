@@ -2,7 +2,8 @@
 
 ## Learning Source
 This project was created by following the YouTube tutorial:  
-[AdventureWorks Excel Dashboard Tutorial ;The Microsoft Excel Dashboard Masterclass]([https://www.youtube.com/xxxx](https://youtu.be/VxOOt2dP8Jw?si=N1vrkUiE-4qhg8uH))  
+[AdventureWorks Excel Dashboard Tutorial 
+;The Microsoft Excel Dashboard Masterclass]([https://www.youtube.com/xxxx](https://youtu.be/VxOOt2dP8Jw?si=N1vrkUiE-4qhg8uH))  
 
 
 ## Overview
