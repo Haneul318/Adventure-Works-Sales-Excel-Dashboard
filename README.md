@@ -11,7 +11,7 @@ This project builds an interactive Excel dashboard using Power Query and Power P
 It provides insights into sales performance, profitability, customer demographics, and product analysis through:  
 - Data cleaning and transformation via Power Query  
 - Relational data modeling  
-- DAX measures and KPIs  
+- DAX measures and KPIs   
 - Interactive dashboards with slicers and filters  
 
 ---
