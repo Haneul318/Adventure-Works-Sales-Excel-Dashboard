@@ -18,7 +18,7 @@ It provides insights into sales performance, profitability, customer demographic
 
 ## 1. Data Model (Diagram)
 The project is powered by a star schema linking fact tables and dimension tables.
-
+ 
 ![Data Model](Diagram.png)
 
 ---
